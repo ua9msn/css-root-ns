@@ -1,0 +1,18 @@
+@import "./theme_palette.css";
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.scopeA .h_component {
+  --color-h1: red;
+}
+
+.scopeB .h_component {
+  --color-h1: yellow;
+}
+
+.unset_scope .h_component {
+  font-size: small;
+}
