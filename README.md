@@ -1,2 +1,3 @@
 # css-root-ns
-Created with CodeSandbox
+
+Showcase for `css` namespaces with `css` vars
